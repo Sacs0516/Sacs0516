@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=alejandrollanganate.alejandrollanganate)
+<br />
+
 <!--
 **Sacs0516/Sacs0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[nombre o descripcion](url)
 
 Here are some ideas to get you started:
 
